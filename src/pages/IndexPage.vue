@@ -60,7 +60,7 @@
 
         <p class="description">
           I'm a Full-Stack Developer passionate about creating
-          modern, responsive, and user-friendly web applications.
+          modern, responsive, and user-friendly web and mobile applications.
           I enjoy turning ideas into meaningful digital solutions.
         </p>
 
